@@ -108,7 +108,7 @@ Python · pandas · NumPy · scikit-learn · Streamlit · Plotly · matplotlib �
 
 ## 📬 Built by
 
-Sahanaa — CodeAlpha Data Science Internship portfolio
+Sahanaa — Thiranex Data Science Internship portfolio
 - Deploy as an interactive Streamlit dashboard (see below)
 
 ---
@@ -129,25 +129,8 @@ Sahanaa — CodeAlpha Data Science Internship portfolio
 
 The model is trained once on app startup (cached with `@st.cache_resource`) so the dashboard
 stays fast even though predictions are computed live as you move the sliders.
-
----
-
-## 🎤 Internship Presentation Outline
-
-1. **Title slide** — Project name, your name, CodeAlpha internship, date
-2. **Problem statement** — Why predicting credit default matters for a business
-3. **Dataset overview** — 10,000 customers, 3 features, target variable
-4. **Data cleaning** — what was checked (missing values, duplicates, types)
-5. **EDA highlights** — class imbalance chart, balance-vs-income scatter, correlation heatmap
-6. **The confounding-variable story** — students vs. balance vs. income (great talking point!)
-7. **Model choice & why** — Logistic Regression, balanced class weights
-8. **Results** — ROC-AUC, confusion matrix, recall-over-precision rationale
-9. **Business insights** — the 7 insights above, framed as recommendations
-10. **Next steps** — improvements + Streamlit dashboard demo
-11. **Thank you / Q&A**
-
 ---
 
 ## 📬 Connect
 
-Built by **Sahanaa** as part of a CodeAlpha Data Science & AI/ML internship portfolio.
+Built by **Sahanaa** as part of a Thiranex Data Science internship portfolio.
